@@ -15,6 +15,7 @@ public class RegginTakeOutApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RegginTakeOutApplication.class, args);
 		System.out.println("test");
+		System.out.println("test pull");
 	}
 
 }
